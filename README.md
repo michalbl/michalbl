@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Michal
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Scala
